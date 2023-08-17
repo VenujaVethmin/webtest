@@ -1,0 +1,12 @@
+.t1{
+    margin: 1rem;;
+}
+
+.photo-image{
+    width:20rem;
+}
+.photo-container{
+    border:1px solid black;
+    width:20rem;
+    overflow-wrap: break-word;
+}
